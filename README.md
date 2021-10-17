@@ -1,1 +1,1 @@
-This is Zarela's first progect!
+This is Zarela's first project!
